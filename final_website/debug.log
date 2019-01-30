@@ -1,0 +1,15 @@
+[1007/165356.898:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/165428.316:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/170023.725:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/170131.694:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/171033.352:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/171044.323:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/171049.799:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/171131.694:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/171131.694:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/171631.695:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/183201.274:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/183219.250:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/183234.410:ERROR:crash_report_database_win.cc(427)] unexpected header
+[1007/183240.476:ERROR:crash_report_database_win.cc(427)] unexpected header
+[0227/174210.236:ERROR:file_io_win.cc(243)] SetEndOfFile: The requested operation cannot be performed on a file with a user-mapped section open. (0x4C8)

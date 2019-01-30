@@ -1,0 +1,46 @@
+
+<html>
+<HEAD>
+<STYLE>
+input{
+}
+input[type=text]{
+		width: 380px;
+		height: 30px;
+		}
+input[type=password]{
+		width: 380px;
+		height: 30px;
+		}
+input[placeholder]{
+text-align:center;
+}
+body{
+font-style:italic;
+color:black;
+font-size:20px;
+text-align:center;
+}
+textarea[placeholder]{
+font-size:20px;
+}
+h2{
+color:69D1B0;
+}
+</style>
+</HEAD>
+<body background="ng.jpg">
+<br><br><br><br><br><br><br><br>
+<form action="sub.html">
+<b>Name</b> : &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="text" size="50px" placeholder="YOUR NAME"><br><br>
+<b>Email Id</b>: &nbsp&nbsp&nbsp&nbsp<input type="text" size="50px" PLACEHOLDER="I.D."><br><br>
+<b>Contact no</b>: <input type="text" size="50px" placeholder="Contact No."><br><br><HR>
+<h6>
+<input type="checkbox"> I have read the <font color="red">Terms and Conditions</font> and all information provided is correct to the best of my knowledge.</h6><br>
+<a href="form.html">
+<input type="button" value="Submit" onclick="alert('Form Submitted Successfully')">
+</a>
+</form>
+</body>
+</html>
+

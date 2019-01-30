@@ -1,0 +1,15 @@
+
+<html>
+<head></head>
+<style>
+body{
+    background-image:url(bgimage1.jpg);
+}
+</style>
+<body>
+<img src="s1.png"/></br>
+<img src="s2.png"/></br>
+<img src="s3.png"/></br>
+<img src="s1.png"/></br>
+
+</body>

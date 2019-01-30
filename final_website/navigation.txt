@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<style> 
+input[type=text] {
+    width: 375px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+   
+}
+
+
+</style>
+<body style="background-color:white;">
+<img src="logo.png"align="left"/>
+<form>
+  <input type="text" hspace="400"name="search" placeholder="Search..">
+</form>
+
+</body>
+</html>
